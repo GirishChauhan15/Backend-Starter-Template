@@ -47,8 +47,14 @@ Make sure you have the following installed:
       ```bash
         npm install
       ```
+      
+4. Properly Eliminating the Git Repository:
+   
+      ```bash
+        rm -rf .git
+      ```
     
-4. Start the application:
+5. Start the application:
    
       ```bash
         npm run dev
